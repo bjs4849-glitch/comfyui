@@ -37,6 +37,14 @@ UNET_MODELS=(
 LORA_MODELS=(
     "https://civitai.com/api/download/models/68895?type=Model&format=SafeTensor"
     "https://huggingface.co/eigen-ai-labs/eigen-banana-qwen-image-edit/resolve/main/eigen-banana-qwen-image-edit-2509-fp16-lora.safetensors"
+    "https://civitai.com/api/download/models/2156392?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/2176505?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/2200389?type=Model&format=Diffusers"
+    "https://civitai.com/api/download/models/2273468?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/2553151?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/2553271?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/2464946?type=Model&format=SafeTensor"
+    "https://civitai.com/api/download/models/2073605?type=Model&format=SafeTensor"
 )
 
 VAE_MODELS=(
